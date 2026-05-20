@@ -10,8 +10,10 @@ print(f"Subtraction of the two numbers is {num1 - num2}. ")
 #Multiplication
 print(f"Multiplication of the two numbers is {num1 * num2}. ")
 if num2 != 0: 
-#Division
+    #Division
     print(f"Division of the two numbers is {num1 / num2}. ")
+    #Integer division
+    print(f"Integer Division of the two numbers is {num1 // num2}. ")
     #Modulo
     print(f"Mod of the two numbers is {num1 % num2}. ")
 else:
