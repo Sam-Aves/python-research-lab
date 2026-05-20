@@ -1,0 +1,6 @@
+completed_credits = int(input("Enter your completed credits: "))
+current_cgpa =  float(input("Enter your current CGPA: "))
+expected_semester_cgpa = float(input("Enter your expected semester CGPA: "))
+new_semester_credit = int(input("Enter your new semester credits: "))
+updated_cgpa = ((current_cgpa * completed_credits) + (expected_semester_cgpa * new_semester_credit)) / (completed_credits + new_semester_credit)
+print(f"Your updated CGPA is: {updated_cgpa}")
