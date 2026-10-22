@@ -4,8 +4,6 @@ A personal, research-oriented Python learning repository documenting my journey 
 
 This repository serves two purposes: **active learning and portfolio development**. It contains practical exercises, experiments, notes, and mini-projects developed while strengthening my programming and research skills.
 
-Larger projects may be hosted in separate repositories and linked here.
-
 ## 🧰 Tech Stack
 
 - **Language:** Python 3.13
